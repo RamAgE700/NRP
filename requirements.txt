@@ -1,0 +1,6 @@
+spacy
+nltk
+pandas
+requests
+spacy==3.7.5
+nltk==3.8.1
